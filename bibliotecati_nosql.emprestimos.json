@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "670000000000000000000001"
+  },
+  "id_usuario": {
+    "$oid": "660000000000000000000001"
+  },
+  "titulo_livro": "CÓDIGO LIMPO",
+  "data_saida": "2026-03-24",
+  "data_devolucao_prevista": "2026-03-31",
+  "status_devolucao": "Atrasado",
+  "financeiro": {
+    "multa_gerada": 15.5,
+    "data_geracao": "2026-04-01",
+    "status_cobranca": "Pendente",
+    "forma_pagamento_preferencial": "Pix"
+  }
+}]

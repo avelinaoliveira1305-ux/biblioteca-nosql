@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "660000000000000000000001"
+  },
+  "nome": "Ana Souza",
+  "email": "ana.souza@uern.br",
+  "data_cadastro": "2026-03-24"
+},
+{
+  "_id": {
+    "$oid": "660000000000000000000002"
+  },
+  "nome": "Carlos Lima",
+  "email": "carlos.lima@uern.br",
+  "data_cadastro": "2026-03-24"
+}]

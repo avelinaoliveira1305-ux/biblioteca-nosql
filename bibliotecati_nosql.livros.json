@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6a284d4920dc882193459309"
+  },
+  "titulo": "CÓDIGO LIMPO",
+  "ano_publicacao": 2008,
+  "autor": {
+    "nome": "Robert C. Martin",
+    "nacionalidade": "Americana"
+  },
+  "status": "Emprestado"
+},
+{
+  "_id": {
+    "$oid": "6a284d4920dc88219345930a"
+  },
+  "titulo": "ARQUITETURA LIMPA",
+  "ano_publicacao": 2017,
+  "autor": {
+    "nome": "Robert C. Martin",
+    "nacionalidade": "Americana"
+  },
+  "status": "Disponível"
+},
+{
+  "_id": {
+    "$oid": "6a284d4920dc88219345930b"
+  },
+  "titulo": "ENTENDENDO ALGORITMOS",
+  "ano_publicacao": 2017,
+  "autor": {
+    "nome": "Aditya Bhargava",
+    "nacionalidade": "Indiana"
+  },
+  "status": "Disponível"
+},
+{
+  "_id": {
+    "$oid": "6a284d4920dc88219345930c"
+  },
+  "titulo": "ESTRUTURAS DE DADOS E ALGORITMOS",
+  "ano_publicacao": 2020,
+  "autor": {
+    "nome": "Jay Wengrow",
+    "nacionalidade": "Americana"
+  },
+  "status": "Disponível"
+}]
